@@ -1,0 +1,16 @@
+C:\Users\Lennert\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Lennert\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Lennert\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Lennert\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.deps.json
+C:\Users\Lennert\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.json
+C:\Users\Lennert\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.dev.json
+C:\Users\Lennert\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.dll
+C:\Users\Lennert\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.csprojAssemblyReference.cache
+C:\Users\Lennert\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.RazorAssemblyInfo.cache
+C:\Users\Lennert\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.RazorAssemblyInfo.cs
+C:\Users\Lennert\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\Lennert\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfo.cs
+C:\Users\Lennert\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.RazorTargetAssemblyInfo.cache
+C:\Users\Lennert\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.pdb
+C:\Users\Lennert\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.dll
+C:\Users\Lennert\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.pdb
